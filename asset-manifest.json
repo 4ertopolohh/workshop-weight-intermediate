@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/workshop-weight-intermediate/static/css/main.f68e0c6f.css",
-    "main.js": "/workshop-weight-intermediate/static/js/main.641aa96a.js",
-    "static/css/356.b12c1adf.chunk.css": "/workshop-weight-intermediate/static/css/356.b12c1adf.chunk.css",
-    "static/js/356.83206555.chunk.js": "/workshop-weight-intermediate/static/js/356.83206555.chunk.js",
+    "main.css": "/workshop-weight-intermediate/static/css/main.49bdda00.css",
+    "main.js": "/workshop-weight-intermediate/static/js/main.381f90b5.js",
+    "static/css/713.6c19b498.chunk.css": "/workshop-weight-intermediate/static/css/713.6c19b498.chunk.css",
+    "static/js/713.ce4f1b64.chunk.js": "/workshop-weight-intermediate/static/js/713.ce4f1b64.chunk.js",
     "static/css/349.cfaef94a.chunk.css": "/workshop-weight-intermediate/static/css/349.cfaef94a.chunk.css",
     "static/js/349.29aaf5f4.chunk.js": "/workshop-weight-intermediate/static/js/349.29aaf5f4.chunk.js",
     "static/css/121.acfa9984.chunk.css": "/workshop-weight-intermediate/static/css/121.acfa9984.chunk.css",
@@ -12,6 +12,7 @@
     "static/js/33.3c29e51f.chunk.js": "/workshop-weight-intermediate/static/js/33.3c29e51f.chunk.js",
     "static/js/453.4a06de51.chunk.js": "/workshop-weight-intermediate/static/js/453.4a06de51.chunk.js",
     "static/js/25.88afee04.chunk.js": "/workshop-weight-intermediate/static/js/25.88afee04.chunk.js",
+    "static/media/aboutMePopUpBackground.png": "/workshop-weight-intermediate/static/media/aboutMePopUpBackground.66a2e2c5de7f07138077.png",
     "static/media/welcomeBackground.png": "/workshop-weight-intermediate/static/media/welcomeBackground.cf5177f8cb6aaa4a9c2b.png",
     "static/media/allReviewsBackground.png": "/workshop-weight-intermediate/static/media/allReviewsBackground.b9204356d5a16af27885.png",
     "static/media/kristinaSlide1.png": "/workshop-weight-intermediate/static/media/kristinaSlide1.edb35c9466d11d7fd18c.png",
@@ -37,6 +38,7 @@
     "static/media/allReviewsAvatars.png": "/workshop-weight-intermediate/static/media/allReviewsAvatars.7df4244ca48424a25c5e.png",
     "static/media/resultsPeoples.png": "/workshop-weight-intermediate/static/media/resultsPeoples.d2fcdfdab019b8c857c4.png",
     "static/media/elenaAvatar.png": "/workshop-weight-intermediate/static/media/elenaAvatar.303540333991da199cee.png",
+    "static/media/nikitaAvatar.png": "/workshop-weight-intermediate/static/media/nikitaAvatar.b97e1237279a9d11c67c.png",
     "static/media/burgerImage.png": "/workshop-weight-intermediate/static/media/burgerImage.780586c49957f75da1da.png",
     "static/media/expertsIcon.svg": "/workshop-weight-intermediate/static/media/expertsIcon.ab7b2ad4af11047601801fdcf43f3d9f.svg",
     "static/media/garantIcon.svg": "/workshop-weight-intermediate/static/media/garantIcon.8311e410a76f0d6eccbbe63a48c104ce.svg",
@@ -58,14 +60,15 @@
     "static/media/supportIcon.svg": "/workshop-weight-intermediate/static/media/supportIcon.3af87b3d0d0e85e7da12d8978232c910.svg",
     "index.html": "/workshop-weight-intermediate/index.html",
     "static/media/howDoesSectionTitleIcon.svg": "/workshop-weight-intermediate/static/media/howDoesSectionTitleIcon.b0ec94d2d6f9fc3edd3e47908187aaba.svg",
+    "static/media/closeIcon.svg": "/workshop-weight-intermediate/static/media/closeIcon.9929db947be2623edc576e429b9aa7ca.svg",
     "static/media/sliderRightArrowBlack.svg": "/workshop-weight-intermediate/static/media/sliderRightArrowBlack.6ac01974e60e34b931323581edfdc779.svg",
     "static/media/sliderLeftArrow.svg": "/workshop-weight-intermediate/static/media/sliderLeftArrow.919fce10464819b8784e2583f4401430.svg",
     "static/media/sliderLeftArrowBlack.svg": "/workshop-weight-intermediate/static/media/sliderLeftArrowBlack.4e566af7b9b2e5e16938babb6d0ce11d.svg",
     "static/media/sliderRightArrow.svg": "/workshop-weight-intermediate/static/media/sliderRightArrow.a50ca3ebce7d96b6b25210bee17dce46.svg",
-    "main.f68e0c6f.css.map": "/workshop-weight-intermediate/static/css/main.f68e0c6f.css.map",
-    "main.641aa96a.js.map": "/workshop-weight-intermediate/static/js/main.641aa96a.js.map",
-    "356.b12c1adf.chunk.css.map": "/workshop-weight-intermediate/static/css/356.b12c1adf.chunk.css.map",
-    "356.83206555.chunk.js.map": "/workshop-weight-intermediate/static/js/356.83206555.chunk.js.map",
+    "main.49bdda00.css.map": "/workshop-weight-intermediate/static/css/main.49bdda00.css.map",
+    "main.381f90b5.js.map": "/workshop-weight-intermediate/static/js/main.381f90b5.js.map",
+    "713.6c19b498.chunk.css.map": "/workshop-weight-intermediate/static/css/713.6c19b498.chunk.css.map",
+    "713.ce4f1b64.chunk.js.map": "/workshop-weight-intermediate/static/js/713.ce4f1b64.chunk.js.map",
     "349.cfaef94a.chunk.css.map": "/workshop-weight-intermediate/static/css/349.cfaef94a.chunk.css.map",
     "349.29aaf5f4.chunk.js.map": "/workshop-weight-intermediate/static/js/349.29aaf5f4.chunk.js.map",
     "121.acfa9984.chunk.css.map": "/workshop-weight-intermediate/static/css/121.acfa9984.chunk.css.map",
@@ -76,7 +79,7 @@
     "25.88afee04.chunk.js.map": "/workshop-weight-intermediate/static/js/25.88afee04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f68e0c6f.css",
-    "static/js/main.641aa96a.js"
+    "static/css/main.49bdda00.css",
+    "static/js/main.381f90b5.js"
   ]
 }
